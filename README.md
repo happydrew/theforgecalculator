@@ -10,7 +10,9 @@
 
 **[The Forge Calculator](https://theforgecalculator.info)** is the ultimate and most powerful tool for players of The Forge Roblox game, specifically engineered to completely revolutionize your weapon and armor crafting experience. This **forge calculator** delivers unmatched precision in predicting forging outcomes, guaranteeing you maximize every single ore investment and consistently create the absolute most powerful equipment possible.
 
-As the definitive **the forge calculator** platform, our tool leverages the game's actual probability tables and mechanics to provide 100% accurate calculations you can trust completely. Whether forging weapons or armor, our **forge roblox calculator** ensures you always make perfectly informed decisions before committing your valuable ores to the forge—eliminating all guesswork and uncertainty.
+As the definitive **the forge calculator** platform, our tool leverages the game's actual probability tables and mechanics to provide 100% accurate calculations you can trust completely. **Unlike any other forge calculator**, we display individual statistics for every weapon and armor variant—showing you the exact damage, DPS, and defense for each possible outcome (Dragon Slayer, Crusader Sword, Dark Knight Armor, etc.) rather than just generic estimates.
+
+Whether forging weapons or armor, our **forge roblox calculator** ensures you always make perfectly informed decisions before committing your valuable ores to the forge—eliminating all guesswork and uncertainty with complete variant transparency.
 
 👉 **[Try The Forge Calculator Now](https://theforgecalculator.info)** 👈
 
@@ -33,6 +35,17 @@ Our **[the forge calculator](https://theforgecalculator.info)** uses meticulousl
 ### ⚡ Instant Real-Time Stat Predictions
 
 Instantly visualize exact estimated damage, DPS, and defense values before you forge, empowering you to plan your equipment upgrades with complete confidence and strategic precision that guarantees optimal results.
+
+### 🎯 Complete Variant Analysis (Unique Feature!)
+
+Unlike other forge calculators, **[our tool](https://theforgecalculator.info)** displays **individual stats for every variant**—not just generic estimates! Each weapon and armor type has multiple variants with different base damage, attack speed, and defense values. Our **forge roblox calculator** automatically calculates and displays:
+
+- **Full Range Display**: See minimum and maximum damage/DPS across all possible variants
+- **Individual Variant Stats**: Detailed damage, DPS, and defense for each specific variant (Dragon Slayer, Colossal Sword, etc.)
+- **Best Variant Highlighting**: Instantly identify which variant offers the highest DPS or defense with ⭐ Best tags
+- **Drop Rate Information**: Know the exact probability (1/1, 1/2, 1/8) for each variant
+
+For example, when forging a Colossal weapon, you'll see that Dragon Slayer (24 base dmg, 1.4s) has different DPS than Colossal Sword (20 base dmg, 1.12s), helping you understand the full range of possible outcomes. This level of detail is **exclusive to our calculator** and provides the most accurate forging predictions available.
 
 ### 🎯 Advanced Trait Analysis
 
@@ -100,7 +113,14 @@ The **forge calculator** automatically displays forging chances for all equipmen
 
 **Step 4: Check Details**
 
-Click on any weapon or armor to see detailed stats including estimated damage/defense, DPS ranges, variants, and active traits with their effectiveness levels.
+Click on any weapon or armor to see comprehensive detailed stats including:
+- Overall damage/defense ranges across all variants
+- Individual stats for each specific variant (damage, DPS, defense)
+- Best variant automatically highlighted with ⭐ Best tag
+- Active traits with their effectiveness levels
+- Variant drop rates (1/1, 1/2, 1/8, etc.)
+
+Our **[the forge calculator](https://theforgecalculator.info)** is the only tool that shows individual variant statistics, giving you the most complete picture of your forging outcomes.
 
 **Step 5: Optimize**
 
@@ -139,6 +159,17 @@ Our **[the forge calculator](https://theforgecalculator.info)** uses probability
 ### Real-Time Calculations
 
 Get instant results as you add or remove ores. No waiting, no delays—just immediate, accurate forging predictions.
+
+### Complete Variant Breakdown (Industry-Leading!)
+
+We're the **only forge calculator** that displays individual statistics for every weapon and armor variant. While other calculators show generic estimates, we provide:
+
+- Exact damage, DPS, and defense for each variant (Dragon Slayer, Crusader Sword, Dark Knight Armor, etc.)
+- Automatic identification of the best variant with visual highlighting
+- Full range calculations showing your best-case and worst-case scenarios
+- Drop rate transparency so you know the odds of getting each variant
+
+This unique feature gives you **unmatched accuracy** in planning your forges and understanding the true potential of your ore combinations.
 
 ### Comprehensive Trait Analysis
 
@@ -185,6 +216,10 @@ For optimal trait activation, ensure your target ore type represents at least 30
 ### Does the calculator work for mobile?
 
 Yes! Our **[the forge calculator](https://theforgecalculator.info)** is fully responsive and works perfectly on mobile devices, tablets, and desktop computers. You can plan your forges on any device before heading into the game.
+
+### Why does your calculator show different stats for each variant?
+
+Because variant stats **actually differ** in the game! For example, Dragon Slayer has 24 base damage with 1.4s attack time, while Colossal Sword has 20 base damage with 1.12s attack time—resulting in different DPS values. Other calculators ignore these differences and only show generic estimates, but our **[forge roblox calculator](https://theforgecalculator.info)** displays accurate individual stats for every variant, making it the most precise tool available. This helps you understand the full range of possible outcomes when you forge.
 
 ---
 
